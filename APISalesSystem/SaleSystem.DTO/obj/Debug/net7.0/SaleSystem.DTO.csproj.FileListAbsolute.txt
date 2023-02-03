@@ -1,0 +1,12 @@
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DTO\bin\Debug\net7.0\SaleSystem.DTO.deps.json
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DTO\bin\Debug\net7.0\SaleSystem.DTO.dll
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DTO\bin\Debug\net7.0\SaleSystem.DTO.pdb
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DTO\obj\Debug\net7.0\SaleSystem.DTO.csproj.AssemblyReference.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DTO\obj\Debug\net7.0\SaleSystem.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DTO\obj\Debug\net7.0\SaleSystem.DTO.AssemblyInfoInputs.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DTO\obj\Debug\net7.0\SaleSystem.DTO.AssemblyInfo.cs
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DTO\obj\Debug\net7.0\SaleSystem.DTO.csproj.CoreCompileInputs.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DTO\obj\Debug\net7.0\SaleSystem.DTO.dll
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DTO\obj\Debug\net7.0\refint\SaleSystem.DTO.dll
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DTO\obj\Debug\net7.0\SaleSystem.DTO.pdb
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DTO\obj\Debug\net7.0\ref\SaleSystem.DTO.dll

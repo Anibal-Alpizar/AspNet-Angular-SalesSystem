@@ -1,0 +1,14 @@
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\bin\Debug\net7.0\SaleSystem.Model.deps.json
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\bin\Debug\net7.0\SaleSystem.Model.runtimeconfig.json
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\bin\Debug\net7.0\SaleSystem.Model.dll
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\bin\Debug\net7.0\SaleSystem.Model.pdb
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\obj\Debug\net7.0\SaleSystem.Model.csproj.AssemblyReference.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\obj\Debug\net7.0\SaleSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\obj\Debug\net7.0\SaleSystem.Model.AssemblyInfoInputs.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\obj\Debug\net7.0\SaleSystem.Model.AssemblyInfo.cs
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\obj\Debug\net7.0\SaleSystem.Model.csproj.CoreCompileInputs.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\obj\Debug\net7.0\SaleSystem.Model.dll
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\obj\Debug\net7.0\refint\SaleSystem.Model.dll
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\obj\Debug\net7.0\SaleSystem.Model.pdb
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\obj\Debug\net7.0\SaleSystem.Model.genruntimeconfig.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.Model\obj\Debug\net7.0\ref\SaleSystem.Model.dll

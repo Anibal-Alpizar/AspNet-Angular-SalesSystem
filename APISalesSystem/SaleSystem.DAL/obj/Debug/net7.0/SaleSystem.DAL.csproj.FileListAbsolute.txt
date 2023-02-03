@@ -1,0 +1,12 @@
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DAL\bin\Debug\net7.0\SaleSystem.DAL.deps.json
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DAL\bin\Debug\net7.0\SaleSystem.DAL.dll
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DAL\bin\Debug\net7.0\SaleSystem.DAL.pdb
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DAL\obj\Debug\net7.0\SaleSystem.DAL.csproj.AssemblyReference.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DAL\obj\Debug\net7.0\SaleSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DAL\obj\Debug\net7.0\SaleSystem.DAL.AssemblyInfoInputs.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DAL\obj\Debug\net7.0\SaleSystem.DAL.AssemblyInfo.cs
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DAL\obj\Debug\net7.0\SaleSystem.DAL.csproj.CoreCompileInputs.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DAL\obj\Debug\net7.0\SaleSystem.DAL.dll
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DAL\obj\Debug\net7.0\refint\SaleSystem.DAL.dll
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DAL\obj\Debug\net7.0\SaleSystem.DAL.pdb
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.DAL\obj\Debug\net7.0\ref\SaleSystem.DAL.dll

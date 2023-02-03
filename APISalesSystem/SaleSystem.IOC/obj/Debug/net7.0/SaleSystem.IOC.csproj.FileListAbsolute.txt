@@ -1,0 +1,12 @@
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.IOC\bin\Debug\net7.0\SaleSystem.IOC.deps.json
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.IOC\bin\Debug\net7.0\SaleSystem.IOC.dll
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.IOC\bin\Debug\net7.0\SaleSystem.IOC.pdb
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.IOC\obj\Debug\net7.0\SaleSystem.IOC.csproj.AssemblyReference.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.IOC\obj\Debug\net7.0\SaleSystem.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.IOC\obj\Debug\net7.0\SaleSystem.IOC.AssemblyInfoInputs.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.IOC\obj\Debug\net7.0\SaleSystem.IOC.AssemblyInfo.cs
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.IOC\obj\Debug\net7.0\SaleSystem.IOC.csproj.CoreCompileInputs.cache
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.IOC\obj\Debug\net7.0\SaleSystem.IOC.dll
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.IOC\obj\Debug\net7.0\refint\SaleSystem.IOC.dll
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.IOC\obj\Debug\net7.0\SaleSystem.IOC.pdb
+D:\AspNet-Angular-SalesSystem\APISalesSystem\SaleSystem.IOC\obj\Debug\net7.0\ref\SaleSystem.IOC.dll
