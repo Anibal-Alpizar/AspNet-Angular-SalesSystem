@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SaleSystem.IOC
 {
+    // Path: SaleSystem.IOC\Dependencie.cs
     internal class Dependencie
     {
     }
