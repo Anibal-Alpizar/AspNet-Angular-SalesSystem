@@ -33,11 +33,13 @@ namespace SaleSystem.DAL.Repository
             }
         }
 
-        public Task<bool> Delete(TModel model)
+        public async Task<bool> Delete(TModel model)
         {
             try
             {
-
+                _dbcontext.Set<TModel>().Remove(model);
+                await _dbcontext.SaveChangesAsync();
+                return true;
             }
             catch
             {
