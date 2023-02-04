@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj",
       "projectName": "SaleSystem.DTO",
-      "projectPath": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj",
+      "projectPath": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj",
       "packagesPath": "C:\\Users\\anibal\\.nuget\\packages\\",
-      "outputPath": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\obj\\",
+      "outputPath": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anibal\\AppData\\Roaming\\NuGet\\NuGet.Config",

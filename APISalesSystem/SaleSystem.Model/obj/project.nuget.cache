@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RxjFuaEBVZyir22yB18HRx20wycI14/1PvNWrHn9DAPu5b9qbriPf10Bxt51yMX6y/HZsRCwEnB2XbWLKd6RYw==",
+  "dgSpecHash": "Qq+/UqEEbfBVJT2hO4t0sAeGNmZv49sPtb2Ec2ejZSUjiIf7pEMEzZ3/GrwnQU4Jye/+2JvIkML00VSw8q5NZw==",
   "success": true,
-  "projectFilePath": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\SaleSystem.Model.csproj",
+  "projectFilePath": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\SaleSystem.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anibal\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\anibal\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

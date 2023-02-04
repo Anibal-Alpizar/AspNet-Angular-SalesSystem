@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Utility\\SaleSystem.Utility.csproj": {}
+    "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Utility\\SaleSystem.Utility.csproj": {}
   },
   "projects": {
-    "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj": {
+    "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj",
         "projectName": "SaleSystem.DTO",
-        "projectPath": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj",
+        "projectPath": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj",
         "packagesPath": "C:\\Users\\anibal\\.nuget\\packages\\",
-        "outputPath": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\obj\\",
+        "outputPath": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anibal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\SaleSystem.Model.csproj": {
+    "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\SaleSystem.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\SaleSystem.Model.csproj",
+        "projectUniqueName": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\SaleSystem.Model.csproj",
         "projectName": "SaleSystem.Model",
-        "projectPath": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\SaleSystem.Model.csproj",
+        "projectPath": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\SaleSystem.Model.csproj",
         "packagesPath": "C:\\Users\\anibal\\.nuget\\packages\\",
-        "outputPath": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\obj\\",
+        "outputPath": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anibal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,14 +126,14 @@
         }
       }
     },
-    "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Utility\\SaleSystem.Utility.csproj": {
+    "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Utility\\SaleSystem.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Utility\\SaleSystem.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Utility\\SaleSystem.Utility.csproj",
         "projectName": "SaleSystem.Utility",
-        "projectPath": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Utility\\SaleSystem.Utility.csproj",
+        "projectPath": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Utility\\SaleSystem.Utility.csproj",
         "packagesPath": "C:\\Users\\anibal\\.nuget\\packages\\",
-        "outputPath": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Utility\\obj\\",
+        "outputPath": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anibal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,11 +150,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj": {
-                "projectPath": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj"
+              "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj": {
+                "projectPath": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.DTO\\SaleSystem.DTO.csproj"
               },
-              "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\SaleSystem.Model.csproj": {
-                "projectPath": "D:\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\SaleSystem.Model.csproj"
+              "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\SaleSystem.Model.csproj": {
+                "projectPath": "C:\\Users\\anibal\\AspNet-Angular-SalesSystem\\APISalesSystem\\SaleSystem.Model\\SaleSystem.Model.csproj"
               }
             }
           }
