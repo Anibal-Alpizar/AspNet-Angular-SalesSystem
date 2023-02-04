@@ -60,11 +60,12 @@ namespace SaleSystem.DAL.Repository
             }
         }
 
-        public Task<IQueryable<TModel>> Query(Expression<Func<TModel, bool>> filter = null)
+        public async Task<IQueryable<TModel>> Query(Expression<Func<TModel, bool>> filter = null)
         {
             try
             {
-
+                IQueryable<TModel> modelQuery = filter == null ? _dbcontext.Set<TModel>() : _dbcontext.Set<TModel>().Where(filter);
+                return modelQuery;
             }
             catch
             {
