@@ -70,11 +70,13 @@ namespace SaleSystem.DAL.Repository
             }
         }
 
-        public Task<bool> Update(TModel model)
+        public async Task<bool> Update(TModel model)
         {
             try
             {
-
+                _dbcontext.Set<TModel>().Update(model);
+                await _dbcontext.SaveChangesAsync();
+                return true;
             }
             catch
             {
