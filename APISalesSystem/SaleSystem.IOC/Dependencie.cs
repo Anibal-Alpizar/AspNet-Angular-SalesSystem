@@ -7,6 +7,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SaleSystem.DAL.Repository.contract;
+using SaleSystem.DAL.Repository;
 
 namespace SaleSystem.IOC
 {
@@ -18,6 +20,10 @@ namespace SaleSystem.IOC
             {
                 options.UseSqlServer(configuration.GetConnectionString("stringSQL"));
             });
-        }
+            // any model
+            services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            // especific model
+            services.AddScoped<ISaleRepository, SaleRepository>();
+        }    
     }
 }
