@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\APISalesSystem"
+    "\\APISalesSystem",
+    "\\APISalesSystem\\SaleSystem.IOC"
   ],
-  "SelectedNode": "\\APISalesSystem\\APISalesSystem.sln",
+  "SelectedNode": "\\APISalesSystem\\SaleSystem.IOC\\Dependencie.cs",
   "PreviewInSolutionExplorer": false
 }
