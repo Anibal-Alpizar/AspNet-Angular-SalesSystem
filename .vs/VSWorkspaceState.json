@@ -5,6 +5,6 @@
     "\\APISalesSystem\\SaleSystem.IOC",
     "\\APISalesSystem\\SaleSystem.Utility"
   ],
-  "SelectedNode": "\\APISalesSystem\\SaleSystem.Utility\\AutoMapperProfile.cs",
+  "SelectedNode": "\\APISalesSystem\\SaleSystem.IOC\\Dependencie.cs",
   "PreviewInSolutionExplorer": false
 }
