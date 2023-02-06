@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SaleSystem.DAL.Repository.contract;
 using SaleSystem.DAL.Repository;
+using SaleSystem.Utility; 
 
 namespace SaleSystem.IOC
 {
@@ -24,6 +25,8 @@ namespace SaleSystem.IOC
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             // especific model
             services.AddScoped<ISaleRepository, SaleRepository>();
+            // all mapper
+            services.AddAutoMapper(typeof(AutoMapperProfile));
         }    
     }
 }
