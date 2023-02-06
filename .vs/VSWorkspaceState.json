@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\APISalesSystem",
-    "\\APISalesSystem\\SaleSystem.IOC"
+    "\\APISalesSystem\\SaleSystem.IOC",
+    "\\APISalesSystem\\SaleSystem.Utility"
   ],
-  "SelectedNode": "\\APISalesSystem\\SaleSystem.IOC\\Dependencie.cs",
+  "SelectedNode": "\\APISalesSystem\\SaleSystem.Utility\\AutoMapperProfile.cs",
   "PreviewInSolutionExplorer": false
 }
