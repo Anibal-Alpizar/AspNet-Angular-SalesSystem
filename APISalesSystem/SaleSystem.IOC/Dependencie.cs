@@ -25,7 +25,7 @@ namespace SaleSystem.IOC
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             // especific model
             services.AddScoped<ISaleRepository, SaleRepository>();
-            // all mapper
+            // all mapper profile
             services.AddAutoMapper(typeof(AutoMapperProfile));
         }    
     }
