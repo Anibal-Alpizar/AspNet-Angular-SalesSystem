@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
@@ -48,7 +49,7 @@ namespace SaleSystem.BLL.Services
         {
             decimal restult = 0;
             IQueryable<Venta> _saleQuery = await _saleRepository.Query();
-            if(_saleQuery.Count() > 0)
+            if (_saleQuery.Count() > 0)
             {
                 var salesTable = returnSales(_saleQuery, -7);
                 restult = salesTable.Select(v => v.Total).Sum(v => v.Value);
@@ -56,11 +57,52 @@ namespace SaleSystem.BLL.Services
             return Convert.ToString(restult, new CultureInfo("es-PE"));
         }
 
-        private async Task<int> TotalProduct()
+        private async Task<int> TotalProducts()
         {
             IQueryable<Producto> _productQuery = await _productRepository.Query();
             int total = _productQuery.Count();
             return total;
+        }
+
+        private async Task<Dictionary<string, int>> SalesLastWeek()
+        {
+            Dictionary<string, int> result = new Dictionary<string, int>();
+            IQueryable<Venta> _salesQuery = await _saleRepository.Query();
+            if (_salesQuery.Count() > 0)
+            {
+                var salesTable = returnSales(_salesQuery, -7);
+                result = salesTable
+                    .GroupBy(v => v.FechaRegistro.Value.Date).OrderBy(g => g.Key)
+                    .Select(dv => new { date = dv.Key.ToString("dd/MM/yyyy"), total = dv.Count() })
+                    .ToDictionary(keySelector: r => r.date, elementSelector: r => r.total);
+            }
+            return result;
+        }
+
+        public async Task<DashBoardDTO> Resumen()
+        {
+            DashBoardDTO vmDashBoard = new DashBoardDTO();
+            try
+            {
+                vmDashBoard.TotalVentas = await TotalSalesLastWeek();
+                vmDashBoard.TotalIngresos = await TotalIncomeLastWeek();
+                vmDashBoard.TotalProductos = await TotalProducts();
+                List<VentasSemanaDTO> saleListWeek = new List<VentasSemanaDTO>();
+                foreach(KeyValuePair<string, int> item in await SalesLastWeek())
+                {
+                    saleListWeek.Add(new VentasSemanaDTO()
+                    {
+                        Fecha = item.Key,
+                        Total = item.Value
+                    });
+                }
+                vmDashBoard.VentasUltimaSemana = saleListWeek;
+            }
+            catch
+            {
+                throw;
+            }
+            return vmDashBoard;
         }
     }
 }
