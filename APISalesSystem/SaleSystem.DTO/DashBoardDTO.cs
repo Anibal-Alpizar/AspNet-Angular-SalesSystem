@@ -10,9 +10,11 @@ namespace SaleSystem.DTO
     {
         public int TotalVentas { get; set; }
 
-        public int TotalIngresos { get; set; }
+        public string? TotalIngresos { get; set; }
 
         public List<VentasSemanaDTO> VentasUltimaSemana { get; set; }
+
+        public int TotalProductos { get; set; }
 
     }
 }
