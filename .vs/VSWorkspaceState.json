@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\APISalesSystem",
+    "\\APISalesSystem\\SaleSystem.BLL",
+    "\\APISalesSystem\\SaleSystem.BLL\\Services",
+    "\\APISalesSystem\\SaleSystem.BLL\\Services\\Contract",
     "\\APISalesSystem\\SaleSystem.IOC",
     "\\APISalesSystem\\SaleSystem.Utility"
   ],
-  "SelectedNode": "\\APISalesSystem\\SaleSystem.IOC\\Dependencie.cs",
+  "SelectedNode": "\\APISalesSystem\\SaleSystem.BLL\\Services\\Contract\\IRolService.cs",
   "PreviewInSolutionExplorer": false
 }
