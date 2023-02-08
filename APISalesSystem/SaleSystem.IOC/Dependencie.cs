@@ -30,13 +30,13 @@ namespace SaleSystem.IOC
             // all mapper profile
             services.AddAutoMapper(typeof(AutoMapperProfile));
             // services from BLL 
-            services.AddScoped<IRolService, RolService>();
-            services.AddScoped<IUserService, IUserService>();
-            services.AddScoped<ICategoryService, CategoryService>();
-            services.AddScoped<IProductService, ProductService>();
-            services.AddScoped<ISaleService, SaleService>();
-            services.AddScoped<IDashBoardService, DashBoardService>();
-            services.AddScoped<IMenuService, MenuService>();
+            //services.AddScoped<IRolService, RolService>();
+            //services.AddScoped<IUserService, IUserService>();
+            //services.AddScoped<ICategoryService, CategoryService>();
+            //services.AddScoped<IProductService, ProductService>();
+            //services.AddScoped<ISaleService, SaleService>();
+            //services.AddScoped<IDashBoardService, DashBoardService>();
+            //services.AddScoped<IMenuService, MenuService>();
         }
     }
 }

@@ -8,6 +8,6 @@
     "\\APISalesSystem\\SaleSystem.IOC",
     "\\APISalesSystem\\SaleSystem.Utility"
   ],
-  "SelectedNode": "\\APISalesSystem\\SaleSystem.BLL\\Services\\Contract\\IRolService.cs",
+  "SelectedNode": "\\APISalesSystem\\SaleSystem.BLL\\Services\\UserService.cs",
   "PreviewInSolutionExplorer": false
 }
