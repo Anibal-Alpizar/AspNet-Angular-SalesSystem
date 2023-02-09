@@ -7,11 +7,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
 using SaleSystem.DAL.Repository.contract;
 using SaleSystem.DAL.Repository;
+
 using SaleSystem.Utility;
-using SaleSystem.BLL.Services.Contract;
+
 using SaleSystem.BLL.Services;
+using SaleSystem.BLL.Services.Contract;
 
 namespace SaleSystem.IOC
 {
@@ -25,18 +28,17 @@ namespace SaleSystem.IOC
             });
             // any model
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            
             // especific model
-            services.AddScoped<ISaleRepository, SaleRepository>();
-            // all mapper profile
+            //services.AddScoped<ISaleRepository, SaleRepository>();
+            
+            // all mapper profile            
             services.AddAutoMapper(typeof(AutoMapperProfile));
+
+
             // services from BLL 
-            //services.AddScoped<IRolService, RolService>();
-            //services.AddScoped<IUserService, IUserService>();
-            //services.AddScoped<ICategoryService, CategoryService>();
-            //services.AddScoped<IProductService, ProductService>();
-            //services.AddScoped<ISaleService, SaleService>();
-            //services.AddScoped<IDashBoardService, DashBoardService>();
-            //services.AddScoped<IMenuService, MenuService>();
+            services.AddScoped<IRolService, RolService>();
+
         }
     }
 }

@@ -38,6 +38,8 @@ C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\bin\De
 C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\bin\Debug\net7.0\SaleSystem.API.runtimeconfig.json
 C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\bin\Debug\net7.0\SaleSystem.API.dll
 C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\bin\Debug\net7.0\SaleSystem.API.pdb
+C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\bin\Debug\net7.0\Azure.Identity.dll
 C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
@@ -114,5 +116,3 @@ C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\obj\De
 C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\obj\Debug\net7.0\SaleSystem.API.pdb
 C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\obj\Debug\net7.0\SaleSystem.API.genruntimeconfig.cache
 C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\obj\Debug\net7.0\ref\SaleSystem.API.dll
-C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\bin\Debug\net7.0\AutoMapper.dll
-C:\Users\anibal\AspNet-Angular-SalesSystem\APISalesSystem\SalesSystem.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

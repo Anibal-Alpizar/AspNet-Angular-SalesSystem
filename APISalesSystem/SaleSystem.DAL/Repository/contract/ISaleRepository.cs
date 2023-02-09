@@ -9,7 +9,6 @@ namespace SaleSystem.DAL.Repository.contract
 {
     public interface ISaleRepository : IGenericRepository<Venta>
     {
-        Task<Venta> Register(Venta model);
-        
+        Task<Venta> Register(Venta model);      
     }
 }
